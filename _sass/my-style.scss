@@ -1,0 +1,19 @@
+.dl-table {
+  a {
+    @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      text-underline-offset: .8rem;
+    }
+    @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+      padding-bottom: .45rem;
+    }
+  }
+
+  .btn, .gumroad-button  {
+    margin: 1rem 0;
+  }
+}
+
+.heading, .tippy-content a, .f6, h6, .h6, .f5, h5, .h5, .f4, .sidebar-nav-item, h4, .h4, .post-date, .f3, h3, .h3, .f2, h2, .h2, .f1, h1, .h1 {
+  font-family: var(--font-family-heading);
+  font-weight: var(--font-weight-heading);
+}

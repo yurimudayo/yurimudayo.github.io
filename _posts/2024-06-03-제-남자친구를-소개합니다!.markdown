@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "제 남자친구를 소개합니다!"
+categories: diary
+---
+이름: 이즈미

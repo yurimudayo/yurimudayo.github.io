@@ -1,6 +1,0 @@
----
-layout: post
-title:  "얘들아 안녕ㅎㅎ"
-categories: diary
----
-안뇽 얘두라 흐흐흐

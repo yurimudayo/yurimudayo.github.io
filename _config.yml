@@ -104,7 +104,7 @@ google_fonts:          Mochiy+Pop+One|Gamja+Flower|Bagel+Fat+One|Black+Han+Sans|
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Zen Kurenaido, Gamja Flower, Roboto Slab, Jua, Nanum Gothic, sans-serif
+font:                  Zen Kurenaido, Gamja Flower, Roboto Slab, Nanum Gothic, Jua, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss

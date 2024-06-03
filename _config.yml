@@ -52,12 +52,12 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             D I A R Y
-    url:               /diary/
+  - title:             L U V
+    url:               /example/
   - title:             S T U D Y
-    url:               /study/
+    url:               /docs/
   - title:             P O R T F O L I O
-    url:               /portfolio/
+    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -83,7 +83,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 # theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+remote_theme: hydecorp/hydejack@v9.1.6
 
 
 # Customizaton
@@ -104,11 +104,11 @@ google_fonts:          Mochiy+Pop+One|Gamja+Flower|Bagel+Fat+One|Black+Han+Sans|
 
 # The text font. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font:                  Zen Kurenaido, Gamja Flower, Roboto Slab, Nanum Gothic, Jua, sans-serif
+font:                  Zen Kurenaido, Jua, Gamja Flower, Nanum Gothic, Roboto Slab, sans-serif
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Gamja Flower, Mochiy Pop One, Jua, sans-serif
+font_heading:          Black Han Sans, Mochiy Pop One, Jua, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;

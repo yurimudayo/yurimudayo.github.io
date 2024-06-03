@@ -33,7 +33,7 @@ templates:             Templates (for web app)
 present:               present
 toc:                   Table of Contents
 note:                  Note
-description:           페이지 소개
+description:           Description
 search:                Search
 search_placeholder:    Type something…
 
@@ -41,7 +41,7 @@ loading:               Loading…
 redirecting:           Redirecting…
 
 continue_reading:      >
-  더 읽기 | <!--post_title-->
+  Continue reading <!--post_title-->
 
 cookies_banner:
   text:                >
@@ -85,14 +85,14 @@ breadcrumbs_separator: '/'
 # Date formats
 # ---------------------------------------------------------------------------------------
 date_formats:
-  post:                '%Y년 %m월 %d일'
+  post:                '%d %b %Y'
   last_modified_at:    '%Y-%m-%d'
-  related_post:        '%Y년 %m월 %d일'
+  related_post:        '%d %b %Y'
   list_group_by:       '%Y'
-  list_entry:          '%m월 %d일'
+  list_entry:          '%d %b'
   project:             '%Y'
   projects_group_by:   '%Y'
-  resume:              '%Y년 %m월'
+  resume:              '%b %Y'
 
 
 # PRO Version

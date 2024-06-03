@@ -3,14 +3,14 @@
 layout: list
 
 # The title of the tag's page.
-title: DIARY
+title: LUV
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: diary
+slug: luv
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  뿡이다 흥
+  사랑하는 사람과 함께
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

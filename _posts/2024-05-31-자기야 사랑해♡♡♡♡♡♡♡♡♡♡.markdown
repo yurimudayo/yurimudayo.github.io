@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "자기야 사랑해♡♡♡♡♡♡♡♡♡♡"
-date:   2024-05-29 19:51:15 +0900
-categories: L U V
+date:   2024-05-29
+categories: luv
 ---
 あなた…
 ユリム眠たい

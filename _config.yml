@@ -20,8 +20,8 @@ url:                   https://yurimudayo.github.io
 lang:                  ko, en, ja
 
 # 파비콘
-favicon:               /assets/img/maskable_icon.ico?
-apple_touch_icon:      /assets/img/maskable_icon_x192.png?
+favicon:               /assets/img/maskable_icon.ico
+apple_touch_icon:      /assets/img/maskable_icon_x192.png
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 뽀요뽀요 #ぽよぽよ
@@ -77,7 +77,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /num/
+paginate_path:         /:num/
 
 
 # Theme

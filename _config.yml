@@ -82,7 +82,7 @@ paginate_path:         /:num/
 
 # Theme
 # ---------------------------------------------------------------------------------------
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9.1.6
 
 
@@ -108,7 +108,7 @@ font:                  Zen Kurenaido, Gamja Flower, Jua, Nanum Gothic, Roboto Sl
 
 # The font used for headings. Expects a string that is a valid CSS font-family value.
 # To change font-weight, see _sass/variables.scss
-font_heading:          Gamja Flower, Mochiy Pop One, Jua, sans-serif
+font_heading:          Zen Kurenaido, Gamja Flower, Mochiy Pop One, Jua, sans-serif
 
 # The font used for code blocks. Expects a string that is a valid CSS font-family value.
 font_code:             Fira Code, Menlo, Monaco, Consolas, monospace;

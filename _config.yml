@@ -24,15 +24,15 @@ favicon:               /assets/img/maskable_icon.ico
 apple_touch_icon:      /assets/img/maskable_icon_x192.png
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 뽀요뽀요 #ぽよぽよ
+title:                 뽀요뽀요
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  뽀요뽀요 일상 블로그
+  생각나는 대로 굴러가는 블로그
 
 # A shorter description for the sidebar.
-tagline:               이즈미 사랑해
+tagline:               생각나는 대로 굴러가는 블로그
 
 # A list of keywords for your blog
 keywords:              []

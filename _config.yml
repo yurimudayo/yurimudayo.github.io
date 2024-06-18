@@ -90,13 +90,13 @@ remote_theme: hydecorp/hydejack@v9.1.6
 # ----------------------------------------------------------------------------------------
 
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/homeYR.jpg
-accent_color:          rgb(238, 158, 92)
+accent_image:          
+accent_color:          rgb(253, 212, 168)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(238, 158, 92)
+theme_color:           rgb(253, 212, 168)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -119,10 +119,10 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(238, 158, 92)
-      theme_color:     rgb(238, 158, 92)
+      accent_color:    rgb(253, 212, 168)
+      theme_color:     rgb(253, 212, 168)
       accent_image:
-        background:    rgb(238, 158, 92)
+        background:    rgb(253, 212, 168)
         overlay:       false
 
   # Don't include documents in assets in the sitemap
